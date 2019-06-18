@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\daynight.cs" />
     <Compile Include="Assets\Scripts\Disintigrator.cs" />
     <Compile Include="Assets\Scripts\PlayerControler.cs" />
+    <Compile Include="Assets\StageTilter.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>F:/My Desktop/Bubble popper/Roll a Ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
